@@ -1,2 +1,0 @@
-C:\Users\sulyman.alani\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1\wwwroot\favicon.ico
-wwwroot\favicon.ico

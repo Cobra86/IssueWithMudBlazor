@@ -1,4 +1,0 @@
-C:\Users\sulyman.alani\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1.Client\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\sulyman.alani\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1.Client\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\sulyman.alani\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1.Client\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\sulyman.alani\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1.Client\obj\Debug\net9.0\staticwebassets.build.json
